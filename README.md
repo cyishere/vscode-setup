@@ -1,4 +1,4 @@
-# VS Code Setting
+# VS Code Setup
 
 ## Extensions
 
@@ -22,3 +22,8 @@
 - Monokai
 - Monokai Dimmed
 - Abyss
+
+## Settings
+
+- Autoformatting
+  - Format on save
