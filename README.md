@@ -27,3 +27,6 @@
 
 - Autoformatting
   - Format on save
+
+- Font
+  - Font Ligatures: true
