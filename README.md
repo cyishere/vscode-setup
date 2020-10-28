@@ -30,3 +30,14 @@
 
 - Font
   - Font Ligatures: true
+
+- Enable Emmet support for JSX
+  - Settings -> Workspace -> Extensions -> Emmet, add following snippet to the json file:
+  
+  ```json
+  {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+     }
+  }
+  ```
