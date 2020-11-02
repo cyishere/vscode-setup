@@ -19,7 +19,7 @@
 
 - Cobalt2
 - Palenight
-- Monokai
+- Monokai *
 - Monokai Dimmed
 - Abyss
 
