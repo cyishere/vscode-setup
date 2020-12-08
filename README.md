@@ -22,6 +22,7 @@
 - Monokai *
 - Monokai Dimmed
 - Abyss
+- Dracula Official *
 
 ## Settings
 
@@ -29,6 +30,8 @@
   - Format on save
 
 - Font
+  - 'cascadia code'
+  - 'Source Code Pro'
   - Font Ligatures: true
 
 - Enable Emmet support for JSX
