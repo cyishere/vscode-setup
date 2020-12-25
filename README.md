@@ -14,6 +14,8 @@
 - Todo Tree
 - vscode-fileheader
 - vscode-icons
+- Live Server
+- Live Sass Compiler
 
 ## Themes
 
