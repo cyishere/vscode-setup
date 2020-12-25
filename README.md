@@ -32,6 +32,7 @@
 - Font
   - 'cascadia code'
   - 'Source Code Pro'
+  - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
   - Font Ligatures: true
 
 - Enable Emmet support for JSX
