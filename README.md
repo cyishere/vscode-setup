@@ -19,13 +19,10 @@
 
 ## Themes
 
-- Cobalt2
-- Palenight
 - Monokai *
 - Monokai Dimmed
 - Abyss
 - Dracula Official *
-- [Framer Syntax](https://github.com/framer/syntax)
 
 ## Settings
 
