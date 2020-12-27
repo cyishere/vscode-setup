@@ -23,6 +23,7 @@
 - Monokai Dimmed
 - Abyss
 - Dracula Official *
+- [Agila](https://github.com/arvi/Agila-Theme)*
 
 ## Settings
 
@@ -33,6 +34,7 @@
   - 'cascadia code'
   - 'Source Code Pro'
   - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
+  - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
   - Font Ligatures: true
 
 - Enable Emmet support for JSX
