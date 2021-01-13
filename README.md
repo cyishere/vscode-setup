@@ -35,6 +35,7 @@
   - 'Source Code Pro'
   - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
   - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
+  - ["Fira Code"](https://github.com/tonsky/FiraCode#solution)
   - Font Ligatures: true
 
 - Enable Emmet support for JSX
