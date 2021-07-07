@@ -24,6 +24,7 @@
 - Abyss
 - Dracula Official *
 - [Agila](https://github.com/arvi/Agila-Theme)*
+- The Doki Theme * (I love their light ones)
 
 ## Settings
 
