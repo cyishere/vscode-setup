@@ -15,7 +15,7 @@
 - vscode-fileheader
 - vscode-icons
 - Live Server
-- Live Sass Compiler
+- Live Sass Compiler: the one made by **Glenn Marks**.
 
 ## Themes
 
